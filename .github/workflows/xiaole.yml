@@ -26,3 +26,6 @@ jobs:
         if: env.BAIDU_COOKIE
         run: |
           node Task/xiaole.js
+        env:
+          XL_URL: ${{ secrets.XL_URL }}
+          COOKIES_SPLIT: ${{ secrets. COOKIES_SPLIT }}
