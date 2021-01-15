@@ -7,7 +7,18 @@
 <img src="https://img.shields.io/github/license/Sunert/Scripts?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/Sunert/Scripts?color=blueviolet">
 </div>
-
+<strong>小乐、
+ 百度极速版、
+ 中青自动阅读、
+ 中青看点、
+ 微博每日签到打卡、
+ 腾讯新闻、
+ 米读、
+ 快手视频签到、
+ 京喜、
+ 电视家、
+ 快手视频浏览
+</strong>
 <br>
 
 ***
